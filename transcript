@@ -1,0 +1,9 @@
+# vsim -c tb -do "run -all;add wave; exit" 
+# Start time: 16:14:06 on Feb 07,2023
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: design.v(23): Module 'division' is not defined.
+# ** Error: design.v(24): Module 'mux_4x1' is not defined.
+# Optimization failed
+# Error loading design
+# End time: 16:14:06 on Feb 07,2023, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
